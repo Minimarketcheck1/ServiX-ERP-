@@ -1,0 +1,7 @@
+{
+  "name": "ServiX ERP - Sistema Integral",
+  "description": "A complete ERP system for small businesses including POS, Inventory management, Cash Register tracking, and detailed reporting with role-based access.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
